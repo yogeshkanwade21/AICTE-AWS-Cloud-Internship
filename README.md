@@ -11,4 +11,5 @@ AWS Academy Cloud Virtual Internship
 ![AWS-cloud-Internship-certificate](https://github.com/yogeshkanwade21/AICTE-AWS-Cloud-Internship/assets/90169068/750a76ce-d170-4739-beeb-557c5a3cf394)
 
 ## Internship Report
-[Uploading AWS_cloud_intern_report.pdf…]()
+
+[AWS_cloud_intern_report.pdf](https://github.com/yogeshkanwade21/AICTE-AWS-Cloud-Internship/files/13759120/AWS_cloud_intern_report.pdf)
